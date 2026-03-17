@@ -4,7 +4,13 @@ A multiplayer turn-based strategy game implemented in C++ with TCP networking.
 Two players compete on a 10x10 grid, collecting points while navigating constraints and special cells.
 The game ends when no legal moves remain. Highest score wins. 
 
+## Game Demo
+
 ![minimax](images/minimax.gif)
+
+## Game Diagram
+
+![diagram](images/diagram.jpg)
 
 ## Game Rules
 
