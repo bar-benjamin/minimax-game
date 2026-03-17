@@ -1,6 +1,6 @@
 # Minimax Game
 
-A multiplayer turn-based strategy game implemented in C++ with TCP networking.
+A multiplayer turn-based strategy game implemented in C/C++ and Python with TCP networking/multithreading.
 Two players compete on a 10x10 grid, collecting points while navigating constraints and special cells.
 The game ends when no legal moves remain. Highest score wins. 
 
